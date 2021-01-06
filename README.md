@@ -1,2 +1,2 @@
 # binus_amorePos
-Information System - Business Application Development
+A Business Application Development final project, but group members are literal idiots.
