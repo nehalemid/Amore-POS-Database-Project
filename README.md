@@ -1,4 +1,4 @@
-# amorePOS Database Project
+# Amore POS Database Project
 
 A Business Application Development final project, Java GUI with MySQL Database Connection.
 Uploaded to github because my team members doesnt even help me at all.
